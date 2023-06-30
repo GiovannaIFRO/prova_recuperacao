@@ -1,0 +1,12 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\bin\Debug\gabaritoForm_recuperação.exe.config
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\bin\Debug\gabaritoForm_recuperação.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\bin\Debug\gabaritoForm_recuperação.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.Form1.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.Menu.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.Properties.Resources.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\gabaritoForm_recuperação\gabaritoForm_recuperação\obj\Debug\gabaritoForm_recuperação.pdb
